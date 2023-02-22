@@ -29,11 +29,11 @@ Timespan: Jan 2020 - Dec 2021.
 
 ## Results
 
-1. S&P is a leader relative to 10Y with a negative relationship for 2-3 months lag and with a positive relationship for 1.5 years lag
-1. 10Y and FTSE seemingly do not have any lag relationship
-1. S&P and FTSE have an alternating leader-follower relationship: FTSE is a leader for S&P with a positive relationship for a 6 months (and less) lag, S&P is a leader for FTSE with a negative relationship for a 6-12 months lag and a positive relationship with a 1.5 years lag. 
+* S&P is a leader relative to 10Y with a negative relationship for 2-3 months lag and with a positive relationship for 1.5 years lag
+* 10Y and FTSE seemingly do not have any lag relationship
+* S&P and FTSE have an alternating leader-follower relationship: FTSE is a leader for S&P with a positive relationship for a 6 months (and less) lag, S&P is a leader for FTSE with a negative relationship for a 6-12 months lag and a positive relationship with a 1.5 years lag. 
 
-
+To additionally verify these findings one would need an inquiry into theoretical economic relationships between these futures, i.e. whether they are substitutes or complementary goods, their price elasticities, etc. Potential COVID-19 pandemic effects could also influence the results. However, these issues require more data and theoretical understanding to be properly examined, which is outside the scope of this  analysis.
 
 ## Links
 **Code:** <a href='https://github.com/AntonBizyaev/index_lag_analysis/blob/main/index_lag_analysis.ipynb'>jupyter notebook</a>  
